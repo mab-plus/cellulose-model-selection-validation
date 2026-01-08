@@ -1,0 +1,36 @@
+# ============================================================================
+# Fanti et al. Mechanical Dating Calibration Data
+# ============================================================================
+#
+# SOURCE: Basso R, Fanti G, Malfi P (2015) "Monte Carlo method applied to the
+#         mechanical dating of the Turin Shroud"
+#         MATEC Web Conf 36:01003
+#         DOI: 10.1051/matecconf/20153601003
+#
+# Data extracted from Table 1 (page 4) and Table 2 (page 5)
+#
+# PARAMETERS:
+#   sigma_R: Breaking strength [MPa]
+#   E_f: Final increasing modulus [GPa]
+#   E_i: Initial decreasing modulus [GPa]
+#   eta_d: Loss factor (direct cycle)
+#   eta_i: Loss factor (inverse cycle)
+#   E_m: Mean modulus = (E_f + E_i) / 2
+#   eta_m: Mean loss factor = (eta_d + eta_i) / 2
+#
+# NOTES:
+#   - Dates are calendar years (negative = BC, positive = AD)
+#   - Standard uncertainty for ln(sigma_R) and ln(E_m): 0.0577
+#   - Standard uncertainty for eta_m: ~5.8% of value
+#
+# ============================================================================
+sample_id,sample_label,date_AD,date_uncertainty,sigma_R_MPa,E_f_GPa,E_i_GPa,eta_d,eta_i,ln_sigma_R,ln_E_m,eta_m
+1,LII,-3250,144,2.11,0.184,0.504,0.1282,0.0821,0.7463,-1.0675,0.1056
+2,K,-2652,100,58.86,5.368,6.392,0.0965,0.0702,4.0752,1.7715,0.0833
+3,HII,-860,81,44.10,3.965,7.512,0.0840,0.0553,3.7864,1.7472,0.0696
+4,E,-375,17,140.46,4.342,2.978,0.0851,0.0327,4.9449,1.2975,0.0589
+5,NII,-290,35,118.64,4.546,6.876,0.0798,0.0459,4.7761,1.7424,0.0628
+6,FII,65,6,150.62,7.375,9.675,0.0795,0.0368,5.0148,2.1430,0.0581
+7,D,575,17,63.21,4.201,5.364,0.0744,0.0519,4.1464,1.5650,0.0630
+8,DII,1072,43,678.14,19.002,23.283,0.0529,0.0334,6.5194,3.0513,0.0432
+9,B,2000,3,1075.70,24.838,32.244,0.0475,0.0159,6.9807,3.3513,0.0317

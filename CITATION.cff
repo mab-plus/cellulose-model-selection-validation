@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Cellulose model selection validation: temporal cross-validation + fire-correction diagnostic"
+type: software
+repository-code: "https://github.com/mab-plus/cellulose-model-selection-validation"
+authors:
+  - family-names: Bakhtaoui
+    given-names: Michel A.
+    affiliation: "Independent Researcher, France"
+abstract: >
+  Code and figures for temporal cross-validation of cellulose degradation models
+  (linear vs saturating in 1/DP) on the European paper database, and a diagnostic
+  Arrhenius fire-correction Monte Carlo case study with explicit historical constraint.
+keywords:
+  - cellulose
+  - degradation kinetics
+  - temporal cross-validation
+  - heritage science
+  - Arrhenius
+  - Monte Carlo
+license: MIT

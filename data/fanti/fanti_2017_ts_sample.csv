@@ -1,0 +1,4 @@
+sample,cycle,E0_GPa,E_GPa,eta_pct,sigma_R_MPa,source
+3EF,1,1.1,3.5,4.7,,Fanti2017_Table4
+3EF,2,3.2,9.0,6.4,155,Fanti2017_Table4
+3EF,3,4.0,12,4.1,,Fanti2017_Table4

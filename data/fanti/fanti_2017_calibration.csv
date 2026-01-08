@@ -1,0 +1,10 @@
+sample,date_ad,sigma_r_MPa,Ef_GPa,Ei_GPa,eta_d_pct,eta_i_pct,source
+B,2000,1076,24.8,32.2,4.8,1.6,Fanti2017_Table2
+DII,1072,678,19.0,23.3,5.3,3.3,Fanti2017_Table2
+D,575,63.2,4.20,5.36,7.4,5.2,Fanti2017_Table2
+FII,65,150,7.38,9.67,7.9,3.7,Fanti2017_Table2
+NII,-290,119,4.55,6.88,8.0,4.6,Fanti2017_Table2
+E,-375,140,4.34,2.98,8.5,3.3,Fanti2017_Table2
+HII,-860,44.1,3.96,7.51,8.4,5.5,Fanti2017_Table2
+K,-2652,58.9,5.37,6.39,9.6,7.0,Fanti2017_Table2
+LII,-3250,2.11,0.184,0.50,12.8,8.2,Fanti2017_Table2

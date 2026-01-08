@@ -1,0 +1,30 @@
+# ============================================================================
+# Turin Shroud Mechanical Measurements
+# ============================================================================
+#
+# SOURCE: Basso R, Fanti G, Malfi P (2015) MATEC Web Conf 36:01003
+#         Table 4 (page 10)
+#
+# These are the mechanical parameters measured on fibers from the Turin Shroud
+# collected during the 1978 STURP campaign (buttocks area).
+#
+# ============================================================================
+parameter,value,unit,ln_value,standard_uncertainty
+sigma_R,243.22,MPa,5.494,0.0577
+E_f,6.283,GPa,,,
+E_i,10.783,GPa,,,
+E_m,8.533,GPa,2.144,0.0577
+eta_d,0.0824,,,
+eta_i,0.0361,,,
+eta_m,0.0593,,0.0593,0.00342
+#
+# MONTE CARLO RESULTS (Table 5, page 12):
+# From sigma_R: 603 AD ± 69 years (68% CI) = 603 AD ± 138 years (95% CI)
+# From E_m:     262 AD ± 102 years (68% CI) = 262 AD ± 204 years (95% CI)
+# From eta_m:   -30 AD (30 BC) ± 298 years (68% CI) = 30 BC ± 596 years (95% CI)
+# AVERAGE:      278 AD ± 108 years (68% CI) = 278 AD ± 216 years (95% CI)
+#
+# Previous result (Fanti et al. 2013): 400 AD ± 400 years (95% CI)
+# Combined with Raman/FT-IR (Fanti et al. 2015): 90 AD ± 200 years (95% CI)
+#
+# 1988 Radiocarbon result: 1325 AD ± 65 years (95% CI) - INCOMPATIBLE

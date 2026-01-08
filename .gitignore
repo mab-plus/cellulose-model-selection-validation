@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.dist-info/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LaTeX build artefacts
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.aux
+*.fls
+*.fdb_latexmk
+
+# Data: keep large third-party sources out of git by default
+data/**/*.xlsx
+
+# Generated outputs (regenerable)
+out_*/
+results/*
+!results/.gitkeep
