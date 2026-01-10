@@ -3,6 +3,8 @@ message: "If you use this software, please cite it using the metadata below."
 title: "Cellulose model selection validation: temporal cross-validation + fire-correction diagnostic"
 type: software
 repository-code: "https://github.com/mab-plus/cellulose-model-selection-validation"
+url: https://doi.org/10.5281/zenodo.18203402
+doi: 10.5281/zenodo.18203402
 authors:
   - family-names: Bakhtaoui
     given-names: Michel A.
