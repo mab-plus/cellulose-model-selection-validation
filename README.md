@@ -81,8 +81,9 @@ If you redistribute any third-party data, please verify the original license/ter
 
 ## How to cite
 
-If you use this repository, please cite it using the metadata in `CITATION.cff`
-(and the associated manuscript, when available).
+For reproducibility, cite the Zenodo **version DOI** corresponding to the exact release you used (see Zenodo records for each release).
+
+Project (concept DOI): https://doi.org/10.5281/zenodo.18203402
 
 ---
 
