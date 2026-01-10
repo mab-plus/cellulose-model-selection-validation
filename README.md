@@ -81,11 +81,13 @@ If you redistribute any third-party data, please verify the original license/ter
 
 ## How to cite
 
-For reproducibility, cite the Zenodo **version DOI** corresponding to the exact release you used (see Zenodo records for each release).
+For reproducibility, please cite the **Zenodo release (version DOI)** you used:
 
-Project (concept DOI): https://doi.org/10.5281/zenodo.18203402
+- **Version DOI (v1.0.3)**: https://doi.org/10.5281/zenodo.18203719
 
----
+The stable **project concept DOI** (all versions) is:
+
+- **Concept DOI**: https://doi.org/10.5281/zenodo.18203402
 
 ## License
 
