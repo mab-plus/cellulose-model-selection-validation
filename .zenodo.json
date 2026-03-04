@@ -1,7 +1,8 @@
 {
   "title": "Cellulose model selection validation (temporal CV) + fire-correction diagnostic",
+  "version": "1.1.0",
   "upload_type": "software",
-  "description": "<p>Reproducible code and figures for temporal cross-validation of cellulosic ageing models, plus a diagnostic Arrhenius fire-correction case study on published flax mechanical-dating data.</p><p><strong>Scope:</strong> methodological evaluation only; no artifact-authenticity claims.</p>",
+  "description": "<p>Reproducible code and figures for temporal cross-validation of cellulosic ageing models (linear vs saturating in 1/DP) on the European paper database, plus a diagnostic Arrhenius fire-correction case study on published flax mechanical-dating data. Ea = 110 kJ/mol (Emsley &amp; Stevens, 1994).</p><p><strong>Scope:</strong> methodological evaluation only; no artifact-authenticity claims.</p>",
   "creators": [
     {
       "name": "Bakhtaoui, Michel",
@@ -18,7 +19,8 @@
     "model selection",
     "Arrhenius",
     "Monte Carlo",
-    "heritage science"
+    "heritage science",
+    "activation energy"
   ],
-  "notes": "For citation metadata, see CITATION.cff (preferred)."
+  "notes": "For citation metadata, see CITATION.cff (preferred). Key parameters: Ea = 110 kJ/mol, sigma_R = 155 MPa, Basso calibration m = 9.256e-4."
 }

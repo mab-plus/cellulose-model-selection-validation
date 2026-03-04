@@ -2,6 +2,8 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata below."
 title: "Cellulose model selection validation: temporal cross-validation + fire-correction diagnostic"
 type: software
+version: "1.1.0"
+date-released: "2025-03-04"
 repository-code: "https://github.com/mab-plus/cellulose-model-selection-validation"
 url: https://doi.org/10.5281/zenodo.18203402
 doi: 10.5281/zenodo.18203402
@@ -13,11 +15,14 @@ abstract: >
   Code and figures for temporal cross-validation of cellulose degradation models
   (linear vs saturating in 1/DP) on the European paper database, and a diagnostic
   Arrhenius fire-correction Monte Carlo case study with explicit historical constraint.
+  Activation energy Ea = 110 kJ/mol (Emsley & Stevens, 1994: 111 ± 6 kJ/mol).
 keywords:
   - cellulose
   - degradation kinetics
   - temporal cross-validation
+  - model selection
   - heritage science
   - Arrhenius
   - Monte Carlo
+  - activation energy
 license: MIT
